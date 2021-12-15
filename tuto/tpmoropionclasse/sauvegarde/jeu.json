@@ -1,0 +1,1 @@
+{"Plateau":{"Dimension":3,"Cases":[["[X]","[2]","[X]"],["[O]","[O]","[O]"],["[X]","[X]","[O]"]]},"Joueur1":{"Nom":"Joueur1","Symbole":"O","AJoue":true},"Joueur2":{"Nom":"Joueur2","Symbole":"X","AJoue":false}}
